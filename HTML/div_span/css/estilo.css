@@ -1,0 +1,40 @@
+#conteudo-principal{
+    background-color: blue;
+    padding: 10px;
+}
+
+.produto{
+    background-color: aqua;
+    margin: 10px;
+}
+
+img{
+    width: 200px;
+
+}
+
+#rodape{
+    background-color: darkseagreen;
+
+}
+
+.azul{
+    font-size: 30px;
+    color: chartreuse;
+}
+
+    .conteudo{
+        border-color: chocolate;
+        border-width: 15px;
+        border-style: solid;
+        padding: 15px;
+    }
+
+    .tamanho{
+        font-size: 5rem;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        font-style: italic;
+        text-decoration: underline;
+        text-decoration: line-through;
+    }
