@@ -1,0 +1,26 @@
+body{
+    background: #c5c5b2 url('../imagens/fundo.png');
+}
+
+#principal{
+    width: 900px;
+}
+
+#menu{
+    background-color: #c5c5b2;
+    padding: 15px;
+}
+
+#teste{
+    background-color: #ffffff;
+    padding: 15px;
+     
+}
+
+#rodape{
+    text-align: center ;
+}
+
+body{
+    background: #828271 url(../imagens/foto1.png);
+}
