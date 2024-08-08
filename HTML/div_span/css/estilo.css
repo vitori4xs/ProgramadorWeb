@@ -37,4 +37,14 @@ img{
         font-style: italic;
         text-decoration: underline;
         text-decoration: line-through;
+
+        background-image:url()
+
+
+    }
+
+
+    .fundo{
+            background-color: blue;
+
     }
