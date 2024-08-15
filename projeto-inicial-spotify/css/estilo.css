@@ -22,12 +22,22 @@ body{
     margin: 12px 13px;
 }
 
-nav.navbar-transparente{
-            padding:15px 8px;
-            background: rgba(0,0,0,0.6);
+.carrossel{
+    background-color: white;
+    height: 1000px;
 }
 
+/* servicos */
+#servicos{
+    background: #f8f2f2;
+}
 
-.navbar-light  .navbar-nav .nav-link{
-                color: white;
+.caixa{
+    padding: 20px;
+    padding-bottom: 20px;
+}
+
+.albuns{
+    padding: 10px 0;
+
 }
